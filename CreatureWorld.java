@@ -37,4 +37,5 @@ public class CreatureWorld extends World
     {
         
     }
+    private boolean start()
 }
